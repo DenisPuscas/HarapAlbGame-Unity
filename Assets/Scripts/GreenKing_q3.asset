@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b784dcd9b4dfbb4880cff13b7520559, type: 3}
+  m_Name: GreenKing_q3
+  m_EditorClassIdentifier: 
+  dialog: " Din partea mea, date s\u0103-\u021Bi fie, dragul tatei!"
+  acceptOption: "R\u0103mas bun, tat\u0103!"
+  declineOption: '[Close]'
+  finalWords: "Mergi de-acum tot \xEEnainte. Numai \u021Bine minte sfatul ce-\u021Bi
+    dau: \xEEn c\u0103l\u0103toria ta ai s\u0103 ai trebuin\u021B\u0103 \u0219i de
+    r\u0103i, \u0219i de buni, dar s\u0103 te fere\u0219ti de omul ro\u0219, iar\u0103
+    mai ales de cel sp\xE2n, c\xE2t \xEEi putea;"
+  rewardItem1: 
+  rewardItem2: 
+  requirmentItem: Clothes
